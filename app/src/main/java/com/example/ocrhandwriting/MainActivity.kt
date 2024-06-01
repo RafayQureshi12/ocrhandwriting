@@ -10,7 +10,6 @@ import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.FileProvider
 import com.airbnb.lottie.LottieAnimationView
-import com.example.ocrhandwriting
 import java.io.File
 import java.io.IOException
 import java.text.SimpleDateFormat
